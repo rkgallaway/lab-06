@@ -25,7 +25,7 @@ app.get('/location', (request, response) => {
 	response.send(locationData);
 });
 
-//Helper functions
+//Helper functions  //feeds info to cunstructr  acts like intermediary between  api and constructor function
 function searchToLatLong(query) {
 	// for now we are just loading a file of mock data; this will be changed to an API call in the demo in lecture 7
 	const geoData = require('./data/geo.json');

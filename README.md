@@ -11,12 +11,18 @@ Finish time: 10:33
 
 Actual time needed to complete: 33 min
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Number and name of feature: Feature 1:  attain lattitude and longitude
 
 Estimate of time needed to complete: 1 hour
 
 Start time: 10:34
 
-Finish time: _____
+Finish time: 11:21
 
-Actual time needed to complete: _____
+Actual time needed to complete: 47 minutes
+finished data input -now studying functionality
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
