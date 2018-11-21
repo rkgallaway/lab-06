@@ -12,6 +12,7 @@ require ('dotenv').config();
 //Application Setup
 const PORT = process.env.PORT;
 const app = express();
+
 app.use(cors());
 
 //API route (more later)
