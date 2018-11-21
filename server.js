@@ -25,7 +25,6 @@ app.get('/location', (request, response) => {
 	// console.log(request.query.data, 'is the query that came from the search field in the browser.');
 	// //this is how we will send the actual query when we move the real data rather tahn mocked data
 	// const locationData = searchToLatLong(request.query.data);
-	// .then()
 	// //this is what gets sent back to the browser
 	// console.log(locationData);
 	// response.send(locationData);
